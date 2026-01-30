@@ -74,9 +74,9 @@ Applying computer science fundamentals to build practical and scalable software 
 ==================================
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhumika-0204&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-0204&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%"/>
 </p>
 
 ---
