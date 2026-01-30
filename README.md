@@ -27,9 +27,6 @@ Applying computer science fundamentals to build practical and scalable software 
 💻 Focused on **full-stack web development** and **backend systems**  
 🤖 Exploring **Machine Learning** for real-world problem solving  
 ⛓️ Learning **Blockchain & Web3 fundamentals**  
-🗄️ Comfortable with **PostgreSQL & database design**  
-📈 Practicing **DSA using C++**  
-🚀 Actively preparing for **internships & software roles**
 
 ---
 
