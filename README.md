@@ -13,7 +13,7 @@ Applying computer science fundamentals to build practical and scalable software 
 </p>
 
 <p align="center">
-🌐 Web Development &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ⛓️ Blockchain &nbsp;•&nbsp; 🗄️ PostgreSQL
+🌐 MERN Stack Developer &nbsp;•&nbsp; 
 </p>
 
 ---
@@ -26,7 +26,6 @@ Applying computer science fundamentals to build practical and scalable software 
 🎓 Pre-Final Year **Computer Science Engineering** student  
 💻 Focused on **full-stack web development** and **backend systems**  
 🤖 Exploring **Machine Learning** for real-world problem solving  
-⛓️ Learning **Blockchain & Web3 fundamentals**  
 
 ---
 
@@ -53,15 +52,8 @@ Applying computer science fundamentals to build practical and scalable software 
 <img height="48" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/>
 </p>
 
-### ⛓️ Blockchain:
-<p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-</p>
 
-### ⚙️ Programming & Tools:
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,git,github,docker" />
-</p>
+
 
 ---
 
