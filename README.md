@@ -1,7 +1,7 @@
 <!-- ======================= PROFILE HEADER ======================= -->
 
 <h1 align="center">
-👩‍💻 Pre-Final Year B.Tech CSE Student | MERN • ML • Blockchain
+👩‍💻 Pre-Final Year B.Tech CSE Student | MERN • ML • DSA
 </h1>
 
 <h2 align="center" style="font-size:32px;">
@@ -13,7 +13,7 @@ Applying computer science fundamentals to build practical and scalable software 
 </p>
 
 <p align="center">
-🌐 MERN Stack Developer &nbsp;•&nbsp; 
+🌐 MERN Stack Developer &nbsp;; 
 </p>
 
 ---
