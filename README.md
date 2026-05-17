@@ -13,7 +13,7 @@ Applying computer science fundamentals to build practical and scalable software 
 </p>
 
 <p align="center">
-🌐 MERN Stack Developer ; 
+🌐 MERN Stack Developer 
 </p>
 
 ---
